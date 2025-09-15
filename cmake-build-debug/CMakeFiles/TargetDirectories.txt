@@ -1,0 +1,3 @@
+C:/Users/erik_101/CLionProjects/spo-lab-1/cmake-build-debug/CMakeFiles/SPO_Lab1.dir
+C:/Users/erik_101/CLionProjects/spo-lab-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erik_101/CLionProjects/spo-lab-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
