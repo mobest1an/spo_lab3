@@ -1,6 +1,3 @@
-//
-// Created by Ivan on 26.01.2025.
-//
 #ifndef SPO_LAB1_LISTING_H
 #define SPO_LAB1_LISTING_H
 

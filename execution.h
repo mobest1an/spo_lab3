@@ -1,7 +1,3 @@
-//
-// Created by Ivan on 20.10.2024.
-//
-
 #ifndef SPO_LAB1_EXECUTION_H
 #define SPO_LAB1_EXECUTION_H
 

@@ -1,7 +1,3 @@
-//
-// Created by Ivan on 26.01.2025.
-//
-
 #include "listing.h"
 #include "execution.h"
 
