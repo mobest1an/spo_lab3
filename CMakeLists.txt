@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.25.1)
+cmake_minimum_required(VERSION 3.21.1)
 project(SPO_Lab1 C)
 set(CMAKE_C_STANDARD 99)
 

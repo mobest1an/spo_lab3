@@ -1,5 +1,4 @@
-ToolSet: 11.0 w64 (local)@C:\Users\erik_101\AppData\Local\Programs\CLion\bin\mingw
-Ninja: 1.12.1@C:\Users\erik_101\AppData\Local\Programs\CLion\bin\ninja\win\x64\ninja.exe
+ToolSet: w64 9.0 (local)@C:\Users\erikk\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\mingw
 Options: 
 
-Options:-DCMAKE_MAKE_PROGRAM=C:/Users/erik_101/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
+Options:
